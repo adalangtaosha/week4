@@ -24,8 +24,9 @@ a. 例程
     - `SeparatorAppMain.java`
     - `CreateDirAndFileAppMain.java`
 
-
 b. 设计一个类，能实现（创建一个可自定义文件名的文件，并从用户输入写入文件内容，读出所有已存在.txt文件内容）         **week4/learnfile/writetoread/**`WriteToReadAppMain.java`
+
+​                                引用  **week4/learnfile/writetoread/**`AppMain.java`
 
 
 
